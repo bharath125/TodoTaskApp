@@ -76,3 +76,4 @@ namespace SimpleTaskApp.Web.Host.Startup
         }
     }
 }
+
